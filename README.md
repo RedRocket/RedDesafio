@@ -19,3 +19,7 @@ Isso quer dizer que além do próprio código esperamos extras e que você deve 
 - Poste com o nome de DesafioRed-{SeuNome}
 
 Ao finalizar o código você deve enviar um e-mail para redrocket.contrata@gmail.com
+
+Após essa etapa você irá receber em no máximo 3 dias úteis uma resposta marcando a sua entrevista presencial.
+
+Boa Sorte! =D
