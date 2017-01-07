@@ -16,7 +16,7 @@ Nós iremos avaliar:
 Isso quer dizer que além do próprio código esperamos extras e que você deve se preocupar também com a legibilidade e para ter um projeto coerente.
 
 - Seu prazo é até 14/01/2017. 
-- Poste com o nome de DesafioRed-{SeuNome}
+- Poste com o nome de DesafioRedRails-{SeuNome}
 
 Ao finalizar o código você deve enviar um e-mail para redrocket.contrata@gmail.com
 
