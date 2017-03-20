@@ -4,7 +4,7 @@
 
 Neste projeto será requerido conhecimentos em Ruby e Rails.
 
-Você deverá desenvolver uma cópia do Behance.
+Você deverá desenvolver uma cópia do Airbnb.
 
 Porém seu desafio não reside somente em desenvolver o código e suas funcionalidades.
 
